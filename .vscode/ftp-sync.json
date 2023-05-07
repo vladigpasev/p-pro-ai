@@ -1,0 +1,28 @@
+{
+    "remotePath": "./p-pro.eu/ai/",
+    "host": "s.abax.bg",
+    "username": "eu_p_pro",
+    "password": "asdfD(S34424",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store",
+        "\\test-finals-checks"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ".php, .html, .js, .css"
+        ],
+        "path": ""
+    }
+}
