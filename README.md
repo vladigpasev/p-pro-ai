@@ -1,0 +1,1 @@
+Please note that the code in this project was written during my early days as a junior developer. As a result, it may not be very well-organized or of the highest quality. I am aware of the areas that need improvement and plan to refactor it in the future.
